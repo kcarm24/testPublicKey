@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "kty": "RSA",
+      "kid": "ecw-key-1",
+      "use": "sig",
+      "alg": "RS384",
+      "n": "sJdL3wefcUfoIx4555Q00QyWdVKcfdGSsQe7yErodPzrVeWzdiZxvXRfT5XvzG9l_FiUTP6mFzYooDRm2AQbsww5bHxQcDdwFUckl-ygUoXLjAEDR47Wl2OzpKNeAqZR2TunkcudN-ABP6uy2AHqvCiBgW4PYATvYlCIVoU_DukKkPP9I1QBCL3Ouaz2JijPd-gCy7MKZmeO-_SABjBlZ7RKiz4nTGYMfu5ZtMw7oT_XeDGaYhTCyhgQTYetsPyVqfO8nEzvV_8gukXbh0fXtCHz_rLDBTzfFuQ3BPISHHGg7qQlLtKkm1Yay1V5-XrVIMskEKBVI0qFIXKd4p2RWw",
+      "e": "AQAB"
+    }
+  ]
+}
